@@ -1,0 +1,31 @@
+.zh-box {
+  margin: 0%;
+  background-color: bisque;
+  text-align: left;
+  text-transform: uppercase;
+  padding: 1.5%;
+}
+
+.zh-country-name {
+  margin: 0%;
+  padding-bottom: 0%;
+  font-size: medium;
+  color: brown;
+}
+
+.zn-hour {
+  margin: 0%;
+  padding-top: 0%;
+}
+
+.zh-hourly {
+  margin: 0%;
+  padding-top: 0%;
+  font-size: x-large;
+}
+
+.zh-meridian {
+  margin: 0%;
+  padding-top: 0%;
+  font-size: small;
+}
